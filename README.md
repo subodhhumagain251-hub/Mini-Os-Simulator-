@@ -97,8 +97,9 @@ explaining the algorithms, so keeping the stack simple keeps the demo
 
 Developed for the Operating Systems Course (July 2026) by:
 
-- Biplav Shree Basnet
+
 - Subodh Humagain
+- Biplav Shree Basnet
 - Sulav Tiwari
 - Sujal Makaju
 
